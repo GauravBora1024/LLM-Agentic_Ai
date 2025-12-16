@@ -2,7 +2,7 @@
 ## Academic Documentation
 
 ### Abstract
-This document provides a comprehensive analysis of a Retrieval-Augmented Generation (RAG) system implementation with integrated evaluation framework. The system is designed for question-answering over a knowledge base about Insurellm, an insurance technology company. The architecture demonstrates a modular design separating implementation concerns (data ingestion, retrieval, generation) from evaluation concerns (retrieval metrics, answer quality assessment).
+This document provides a comprehensive analysis of a Retrieval-Augmented Generation (RAG) system implementation with integrated evaluation framework. The system is designed for question-answering over a knowledge base about Insurellm, an insurance technology company. The architecture demonstrates a modular design separating implementation concerns (data ingestion, retrieval, generation) from evaluation concerns (retrieval metrics, answer quality assessment). 
 
 ---
 
